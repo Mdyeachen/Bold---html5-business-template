@@ -1,0 +1,268 @@
+@media only screen and (min-width:1200px) {}
+
+/*Midum screen*/
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .single-about-list-items {
+        padding: 0 0 0 65px;
+    }
+
+    .about-content-right::after {
+        background-size: cover;
+    }
+
+}
+
+/*tablet layout=768 px  */
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    ul.navbar-nav {
+        position: absolute;
+        width: 200px;
+        background: #fff;
+        left: -90%;
+        box-shadow: 0px 0px 2px 0px grey;
+        top: 122%;
+        z-index: 999
+    }
+
+    ul.navbar-nav li {
+        padding: 2% 5%;
+    }
+
+    .header-top-right-content p {
+        padding: 3px 16px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next,
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none
+    }
+
+
+    .about-bottom-content {
+        display: inline-block;
+    }
+
+    .about-content-left {
+        width: 100%;
+        float: none;
+    }
+
+    .about-content-right {
+        width: 100%;
+        display: inline-block;
+        margin-top: 5%;
+        padding: 12% 0%;
+    }
+
+    .padding-top{
+        padding: 35px auto;
+    }
+    .footer-top-links-photo a img {
+        height: 65px;
+        width: 70px;
+    }
+}
+
+
+/*mobile layout=320px  */
+@media only screen and (max-width:767px) {
+
+    .header-top-right-content {
+        text-align: center;
+        padding-bottom: 5%;
+    }
+
+    .header-top-icon.text-right {
+        text-align: center !important;
+    }
+
+    .header-top-right-content p {
+        line-height: 0px;
+    }
+
+    ul.navbar-nav {
+        position: absolute;
+        width: 200px;
+        background: #fff;
+        left: -90%;
+        box-shadow: 0px 0px 2px 0px grey;
+        top: 122%;
+        z-index: 999
+    }
+
+    ul.navbar-nav li {
+        padding: 2% 5%;
+    }
+
+
+
+    .header-area a.navbar-brand img {
+        width: 90px;
+    }
+
+    .slider-content h5 {
+        font-size: 18px;
+    }
+
+
+    .slider-content h2 {
+        font-size: 24px;
+        line-height: 20px;
+    }
+
+    .slider-content p {
+        padding-right: 0;
+    }
+
+    .slider-content a {
+        padding: 4% 7%;
+    }
+
+    .slider-active .owl-nav button {}
+
+
+    .owl-carousel:hover .owl-nav button.owl-next,
+    .owl-carousel:hover .owl-nav button.owl-prev {
+        visibility: hidden;
+        opacity: 0;
+    }
+
+    .common-header h1 {
+        font-size: 26px;
+        margin-bottom: 6%;
+    }
+
+    .common-header-border {
+        width: 60%;
+        margin-left: -30%;
+        margin-bottom: 12%;
+    }
+
+    .common-header-border::after {}
+
+    .common-header p {
+        padding: 0;
+    }
+
+    .services-items {
+        width: 100%;
+    }
+
+    .services-items p {
+        padding: 0 6%;
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+
+
+    .protfolio-list-part ul li {
+        display: block;
+        width: 55%;
+        margin: 0 auto;
+        padding: 3% 0%;
+    }
+
+    .protfolio-single-list-item {
+        margin: 3%;
+    }
+
+
+    .wmBox_contentWrap {
+        width: 85%;
+    }
+
+    .protfolio-counter-item span {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .protfolio-counter-item h3 {
+        font-size: 16px;
+    }
+
+    .protfolio-circle-progressbar-content {
+        top: 11.5%;
+        left: 34%;
+    }
+
+    .protfolio-counter-part {
+        background-size: cover;
+    }
+
+    .protfolio-progressbar-list li h3 {
+        width: 20%;
+    }
+
+    .pricing-single-box {
+        width: 100%;
+    }
+
+    .pricing-single-box h4 {
+        padding: 14px 50px;
+    }
+
+    .pricing-single-box-img {
+        width: 100%;
+    }
+
+    .pricing-subscribe-header h1 {
+        font-size: 20px;
+    }
+
+    .pricing-subscribe-header p {
+        font-weight: 300;
+        line-height: 19px;
+        padding-bottom: 9%;
+    }
+
+    .pricing-subscribe-input input {
+        width: 100%;
+    }
+
+    .pricing-subscribe-input button {
+        width: 40%;
+        margin-left: -38%;
+        font-size: 13px;
+        padding: 0px 0;
+    }
+
+    .footer-bottom-left {
+        text-align: center;
+    }
+
+    .footer-bottom-right {
+        text-align: center !important;
+    }
+
+    .about-bottom-content {
+        display: inline-block;
+    }
+
+    .about-content-left {
+        width: 100%;
+        float: none;
+        padding: 0 0% 0% 7%;
+    }
+
+    .about-content-right {
+        float: none;
+        width: 100%;
+        height: 200px;
+        margin-top: 25%;
+    }
+
+    .about-content-right::after {
+        background-size: cover;
+    }
+
+}
+
+/*mobile layout=480px  */
+@media only screen and (min-width:480px) and (max-width:767px) {
+
+    .team-part .col-sm-6 {
+        margin-bottom: 5%;
+    }
+}

@@ -1,7 +1,6 @@
 # 🔥 Bold – One Page Creative HTML5 Business Template
 
-![Bold Template Desktop Preview](Bold-one-page-creative-HTML5-responsive-template.png)
-![Bold Template Mobile Preview](Bold-one-page-creative-HTML5-responsive-template-mobile.png)
+![Bold Template Desktop Preview](preview-image/banner.png)
 
 **Bold** is a modern, clean, and fully responsive **HTML5 business template** designed to help entrepreneurs, agencies, and professionals create an impressive online presence. Perfect for startups, freelancers, and digital service providers looking to showcase their services in a single-page layout.
 
@@ -27,8 +26,8 @@
 ## 📱 Responsive Preview
 
 <p align="center">
-  <img src="Bold-one-page-creative-HTML5-responsive-template.png" alt="Bold Desktop Template" width="45%"/>
-  <img src="Bold-one-page-creative-HTML5-responsive-template-mobile.png" alt="Bold Mobile Template" width="45%"/>
+  <img src="preview-image/Bold-one-page-creative-HTML5-responsive-template.png" alt="Bold Desktop Template" width="45%"/>
+  <img src="preview-image/Bold-one-page-creative-HTML5-responsive-template-mobile.png" alt="Bold Mobile Template" width="45%"/>
 </p>
 
 ---
